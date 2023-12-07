@@ -1,0 +1,284 @@
+fileFormatVersion: 2
+guid: 2eae4e083f4182b45a8ac608047f7ee3
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 01 - Default.001
+    second: {fileID: 2100000, guid: 0c5af7054e8bf6d4da8dbb7e210a1ae6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Car Wash and Power Trim 01
+    second: {fileID: 2100000, guid: eb8f0b56e7a20de40b297cbf14583b8a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Delivery Truck
+    second: {fileID: 2100000, guid: 03e8698653ef0664aa189a710ccac764, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Doors
+    second: {fileID: 2100000, guid: d21f335ad4df24245890866c903e54c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Doors.001
+    second: {fileID: 2100000, guid: a9d5d7fba519a4340947ccfe93445b1f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Doors.002
+    second: {fileID: 2100000, guid: 423460ad9c990c64fa3ce311195764ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Doors.003
+    second: {fileID: 2100000, guid: 694f17900b2d4d44cae6f3059fa6f256, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gas Station Fences.002
+    second: {fileID: 2100000, guid: 750bed57f3619d5439387b84106e71ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gas Station Fences.003
+    second: {fileID: 2100000, guid: 7fde718f7ce461447b0f110b2f0b576f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gas Station Fences.004
+    second: {fileID: 2100000, guid: 440cf60ab4c6700448c3fd53dcfb0054, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gas Station Fences.005
+    second: {fileID: 2100000, guid: 76482fbb24972414aad677b44101b1b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gas Station Fences.006
+    second: {fileID: 2100000, guid: 2235640bb20621f418cf1f4f42fa7ccd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gas Station Fences.007
+    second: {fileID: 2100000, guid: e98b1ffa5a8b54344abf475049477ad8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gas Station Signs
+    second: {fileID: 2100000, guid: 0aa7e79fa7f385944950a3761d7e17ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gas Station Signs.001
+    second: {fileID: 2100000, guid: 610e05e1ac70cf747b0b17969553df47, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gas Station Signs.002
+    second: {fileID: 2100000, guid: 0c6e97d749eb9f549a7862b095fb54f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gas Station Transparent Atlas
+    second: {fileID: 2100000, guid: e56beda00bcc00948bcec84700634a44, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gas Station Transparent Atlas.001
+    second: {fileID: 2100000, guid: 2b31f9fe481932a45ac38dab12c086f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ground
+    second: {fileID: 2100000, guid: 29654b4e4935a9d4ab3cdeb8430b7c37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hero Props 01.001
+    second: {fileID: 2100000, guid: e50b298504d7d054dadf2f9b4073ee62, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Main Building Trim 01
+    second: {fileID: 2100000, guid: 57603a7ab1c3b1b42bd308d726ae3bef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Oil Station Props.001
+    second: {fileID: 2100000, guid: fc1485323070ab54d8f95e4f3bd3d62f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Road
+    second: {fileID: 2100000, guid: 5af45fd6d4991ef47b9749ef584fcdb5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shop Props 01
+    second: {fileID: 2100000, guid: 38d1492bd4c563e4597a1d7784eb42aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shop Props 01.001
+    second: {fileID: 2100000, guid: a80ca7ef99652f542a5eef0a983452b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tow Truck Props
+    second: {fileID: 2100000, guid: a612f74d5d7b6da43a1569761355b767, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Truck Dealer Pit Stop 02.001
+    second: {fileID: 2100000, guid: 12b894b4a877cce4d9cb0cd3f2cb264d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Warehouse Trim 01
+    second: {fileID: 2100000, guid: 85b1131d47e0bd1418963cb2eb0569f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Warehouse Trim 01.001
+    second: {fileID: 2100000, guid: 04e2e545d9b48d747b59383b09e0034e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Warehouse Trim 01.002
+    second: {fileID: 2100000, guid: 4fd3fce095e591c44bae4ce57fb12bad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Warehouse and Powerhouse Props
+    second: {fileID: 2100000, guid: c425d23c16287fd4ab984cd5ff05eca9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Warehouse and Powerhouse.001
+    second: {fileID: 2100000, guid: 6ecbe919b41ccaf48b0d5ce991bccc4e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Warehouse and Powerhouse.003
+    second: {fileID: 2100000, guid: 2c814c6885f116f4a9ba9a404773ab93, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Warehouse and Powerhouse.004
+    second: {fileID: 2100000, guid: bf257620fa8190e42893757d7b624e6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Warehouse and Powerhouse.005
+    second: {fileID: 2100000, guid: 638345b36aaee614d8b2ae45f0357afa, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 2
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 30
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
